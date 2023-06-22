@@ -13,6 +13,7 @@ Simon
 
 
 Later on
+- camera movement locked on player
 - Start and Finish Point
 - Bed Mechanics
 - Player Animations
