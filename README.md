@@ -13,6 +13,7 @@ Simon
 
 
 Later on
+- Start and Finish Point
 - Bed Mechanics
 - Player Animations
 - Player Sounds
